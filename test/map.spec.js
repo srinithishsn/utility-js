@@ -1,4 +1,4 @@
-//const { it, expect } = require('@jest/globals')
+
 const map = require('../src/map')
 describe( 'Map',()=> {
 
