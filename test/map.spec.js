@@ -1,4 +1,3 @@
-
 const map = require('../src/map')
 describe( 'Map',()=> {
 
